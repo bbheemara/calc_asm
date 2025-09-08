@@ -13,7 +13,7 @@ A basic calculator program written in ARM assembly language
 - And exception handle.
 
 ### How to run:
-Go to: https://peterhigginson.co.uk/ARMlite/ and 
+Go to: https://peterhigginson.co.uk/ARMlite/ click on edit button which is present at bottom left and 
 paste the [calc.asm](https://github.com/bbheemara/calc_asm/blob/main/calc.asm) file content
 
 Run the program by clicking on run btn(which is present top-center of the page.
